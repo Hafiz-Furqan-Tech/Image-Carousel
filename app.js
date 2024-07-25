@@ -1,9 +1,9 @@
 let images = [
-  "images/pexels-photo-707344.jpeg",
+  "images/pexels-photo.jpg",
   "images/pexels-photo-1366909.jpeg",
   "images/pexels-photo-1761279.jpeg",
   "images/pexels-photo-2086622.jpeg",
-  "images/pexels-photo.jpg",
+  "images/pexels-photo-707344.jpeg"
 ];
 
 const img = document.querySelector(".slide");
